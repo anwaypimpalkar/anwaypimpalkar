@@ -1,8 +1,8 @@
 # Hey there!
 
-My name is Anway, I am an undergraduate student at College of Engineering, Pune pursuing my B.Tech in Electronics and Telecommunications, Batch of '23. 
+I am a final year undergraduate student pursuing Electronics and Telecommunication Engineering at College of Engineering Pune Technological University (COEP Tech).
 
-I am interested in Data Sciences, Machine Learning, developing IoT products and Web Programming.
+I am passionate about about biomedical sciences and technology, and the application of image processing and deep learning to it. I am looking to dive deeper into neuroscience and neuroimaging techniques and am actively pursuing research in this domain.
 
 ------
 
