@@ -1,4 +1,4 @@
-I am a final year undergraduate student pursuing Electronics and Telecommunication Engineering at College of Engineering Pune Technological University (COEP Tech). My research interests are particularly in biomedical sciences and the application of image processing and deep learning to it. I am looking to dive deeper into neuroscience and neuroimaging techniques and am actively pursuing research in this domain.
+I am a final year undergraduate student pursuing Electronics and Telecommunication Engineering at COEP Technological University (COEP Tech). My research interests are particularly in biomedical sciences and the application of image processing and deep learning to it. I am looking to dive deeper into neuroscience and neuroimaging techniques and am actively pursuing research in this domain.
 
 ------
 
