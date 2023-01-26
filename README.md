@@ -1,4 +1,4 @@
-## Hello there! 💻
+# Hello there! 💻
 
 I am a final year B.Tech student pursuing Electronics and Telecommunication Engineering at COEP Technological University (Pune, IN). My research interests are primarily in neuroengineering and neuroscience and I am looking to dive deeper into these fields.
 
