@@ -7,5 +7,5 @@ In August 2023, I will be joining Johns Hopkins University, USA as an MSE Candid
 - 🧠 I am currently working in the broad domain of neural signal processing at the Human Motor Neurophysiology and Neuromodulation Laboratory, IIT Bombay.
 - 📬 Reach out at anway.pimpalkar@gmail.com or pimpalkaras19.extc@coep.ac.in.
 
-Visit anwaypimpalkar.github.io for more!
+Visit (anwaypimpalkar.github.io)[https://anwaypimpalkar.github.io] for more!
 
