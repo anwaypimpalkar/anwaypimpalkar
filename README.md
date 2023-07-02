@@ -1,6 +1,6 @@
 # Hello there! 🦾
 
-I am a final year Master's student pursuing Biomedical Engineering at Johns Hopkins University (Baltimore, USA). My research interests are primarily in neuroengineering and neuroscience and I am looking to dive deeper into these fields.
+My name is Anway. I am a Master's student pursuing Biomedical Engineering at Johns Hopkins University (Baltimore, USA). My research interests are primarily in neuroengineering and neuroscience and I am looking to dive deeper into these fields.
 
 I previously completed my BTech in Electronics and Telecommunication Engineering at COEP Technological University (Pune, IN) in May 2023.
 
