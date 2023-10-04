@@ -5,7 +5,7 @@
 
 # Anway Pimpalkar 🧠 🦾
 
-As a graduate student in Biomedical Engineering at Johns Hopkins University, my primary research focus lies in neuroengineering and biomedical device design, particularly BCI/HCIs and prosthetics. I also work on signal processing and machine learning methods for biosignal modalities, including EEG, ECG, and EMG. 
+A graduate student in Biomedical Engineering at Johns Hopkins University, my primary research focus lies in neuroengineering and biomedical device design, particularly BCI/HCIs and prosthetics. I also work on signal processing and machine learning methods for biosignal modalities, including EEG, ECG, and EMG. 
 
 Reach out at anway.pimpalkar@gmail.com or apimpal1@jhu.edu.
 
@@ -29,11 +29,13 @@ You've come this far, you might as well check my portfolio [anway.me](https://an
 
 * __Wild Blueberry Harvester Automation using Imaging and Sensor Integration__ - Dalhousie University Faculty of Agriculture *(August 2022 - May 2022)*
 
-- __Rehabilitation Device for Patients with Acute Burn Injuries to MCP, DIP, PIP Joints__ - Queliz Lifetech *(June 2021 - Septmember 2021)*
+- __PicoBoo - Thermal Imaging Based Security System__ - College of Engineering Pune *(January 2022 - May 2022)* [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
+* __Rehabilitation Device for Patients with Acute Burn Injuries to MCP, DIP, PIP Joints__ - Queliz Lifetech *(June 2021 - Septmember 2021)*
 
 - __TinyMLevator - Smart Elevator System using Embedded Machine Learning__ - College of Engineering Pune *(January 2021 - May 2021)*
 
-- __CovPrev - COVID-19 Symptom Checking and Sanitization Unit with App__ - College of Engineering Pune *(March 2021 - May 2021)*
+* __CovPrev - COVID-19 Symptom Checking and Sanitization Unit with App__ - College of Engineering Pune *(March 2021 - May 2021)*
 
 ## Education
 
