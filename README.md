@@ -25,17 +25,18 @@ You've come this far, you might as well check my portfolio [anway.me](https://an
 
 * __Understanding the Prospective Component of Sense of Agency using EEG__ - Indian Institute of Technology Bombay *(January 2023 - June 2023)*
 
-- __Skull Stripping of 3D T1-weighted MRI Head Scans__ - COEP Technological University *(August 2022 - May 2023)*
+- __Skull Stripping of 3D T1-weighted MRI Head Scans__ - COEP Technological University *(August 2022 - May 2023)* [![arXiv](https://img.shields.io/badge/arXiv-2211.16570-b31b1b.svg)](https://arxiv.org/abs/2211.16570)
 
 * __Wild Blueberry Harvester Automation using Imaging and Sensor Integration__ - Dalhousie University Faculty of Agriculture *(August 2022 - May 2022)*
 
-- __PicoBoo - Thermal Imaging Based Security System__ - College of Engineering Pune *(January 2022 - May 2022)* [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+- __PicoBoo - Thermal Imaging Based Security System__ - College of Engineering Pune *(January 2022 - May 2022)* [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/anwaypimpalkar/picoboo-thermal-imaging-surveillance-system)
+
 
 * __Rehabilitation Device for Patients with Acute Burn Injuries to MCP, DIP, PIP Joints__ - Queliz Lifetech *(June 2021 - Septmember 2021)*
 
-- __TinyMLevator - Smart Elevator System using Embedded Machine Learning__ - College of Engineering Pune *(January 2021 - May 2021)*
+- __TinyMLevator - Smart Elevator System using Embedded Machine Learning__ - College of Engineering Pune *(January 2021 - May 2021)* [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/anwaypimpalkar/smartElevatorSystem)
 
-* __CovPrev - COVID-19 Symptom Checking and Sanitization Unit with App__ - College of Engineering Pune *(March 2021 - May 2021)*
+* __CovPrev - COVID-19 Symptom Checking and Sanitization Unit with App__ - College of Engineering Pune *(March 2021 - May 2021)* [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/anwaypimpalkar/autonomousCovidSymptomTestingUnit)
 
 ## Education
 
