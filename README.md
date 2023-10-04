@@ -8,7 +8,7 @@ As a graduate student in Biomedical Engineering at Johns Hopkins University, my 
 
 Reach out at anway.pimpalkar@gmail.com or apimpal1@jhu.edu.
 
-#### You've come this far, you might as well check my portfolio [anway.me](https://anway.me) too!
+You've come this far, you might as well check my portfolio [anway.me](https://anway.me) too!
 
 ## Research
 
