@@ -15,6 +15,8 @@ You've come this far, you might as well check my portfolio [anway.me](https://an
 
 ### Ongoing Projects
 
+* __Photoacoustic Retinal Prosthesis__ - Johns Hopkins University | Wilmer Eye Institute (Johns Hopkins Medicine) | Johns Hopkins Applied Physics Laboratory *(October 2023 - Present)*
+
 - __Pneumatic Tactile Sleeve for Upper-Limb Prosthetics__ - Johns Hopkins University *(October 2023 - Present) [In requirement of EN.530.691 - Haptic Interface Design]*
 
 * __Computationally Predicting Stress Cardiomyopathy in Postoperative Patients using ECG and Clinical Biomarkers__ - Johns Hopkins Medicine | Department of Biomedical Engineering *(September 2023 - Present) [In requirement of EN.580.680/681 - Precision Care Medicine]*
