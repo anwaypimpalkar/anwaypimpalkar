@@ -20,8 +20,6 @@ You've come this far, you might as well check my portfolio [anway.me](https://an
 - __Pneumatic Tactile Sleeve for Upper-Limb Prosthetics__ - Johns Hopkins University *(October 2023 - Present) [In requirement of EN.530.691 - Haptic Interface Design]*
 
 * __Computationally Predicting Stress Cardiomyopathy in Postoperative Patients using ECG and Clinical Biomarkers__ - Johns Hopkins Medicine | Department of Biomedical Engineering *(September 2023 - Present) [In requirement of EN.580.680/681 - Precision Care Medicine]*
-  
-- __Using Cybersickness in Virtual Reality - EEG, ECG, EOG Approach__ - University of South Australia & University of Auckland *(July 2023 - Present)*
 
 ### Past Projects
 
