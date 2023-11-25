@@ -5,7 +5,7 @@
 
 # Anway Pimpalkar 🧠 🦾
 
-A graduate student in Biomedical Engineering at Johns Hopkins University, my primary research focus lies in neuroengineering and biomedical device design, particularly BCI/HCIs and prosthetics. I also work on signal processing and machine learning methods for biosignal modalities, including EEG, ECG, and EMG. 
+As a graduate student in [Biomedical Engineering](https://www.bme.jhu.edu/) at [Johns Hopkins University](https://jhu.edu), my primary research focus lies in neuroengineering and biomedical device design, particularly BCI/HCIs and prosthetics. I also work on signal processing and machine learning methods for biosignal modalities, including EEG, ECG, and EMG. 
 
 Reach out at anway.pimpalkar@gmail.com or apimpal1@jhu.edu.
 
