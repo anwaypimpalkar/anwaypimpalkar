@@ -15,4 +15,4 @@ You've come this far, you might as well check my portfolio [anway.me](https://an
 
 - __PhD, Bioengineering/Electrical Engineering__ - Harvard University, USA *(2025 - Present)*
 - __MSE, Biomedical Engineering__ - Johns Hopkins University, USA *(2023 - 2025)*
-* __BTech, Electronics and Telecommunication Engineering__ - College of Engineering Pune, India *(2019 - 2023)*
+- __BTech, Electronics and Telecommunication Engineering__ - College of Engineering Pune, India *(2019 - 2023)*
