@@ -5,7 +5,7 @@
 
 # Anway Pimpalkar 🧠 🦾
 
-As a PhD student in Bioengineering/Electrical Engineering at [Harvard University](https://seas.harvard.edu), my primary research focus lies in neuroengineering and biomedical device design, particularly neural prosthetics. Reach out at apimpalkar@seas.harvard.edu.
+As a PhD student in Bioengineering/Electrical Engineering at [Harvard University](https://seas.harvard.edu), my primary research focus lies in neuroengineering and biomedical device design. Reach out at apimpalkar@seas.harvard.edu.
 
 You've come this far, you might as well check my portfolio [anway.me](https://anway.me) too!
 
