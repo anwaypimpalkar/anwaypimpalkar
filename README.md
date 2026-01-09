@@ -3,9 +3,7 @@
 
 # Anway Pimpalkar 🧠 🦾
 
-As a PhD student in Bioengineering/Electrical Engineering at [Harvard University](https://seas.harvard.edu), my primary research focus lies in neuroengineering and biomedical device design. Reach out at apimpalkar@seas.harvard.edu.
-
-Check my portfolio [anway.me](https://anway.me)!
+I build medical devices to address broad challenges in medicine, currently as a graduate student at Harvard and MIT. Check my portfolio [anway.me](https://anway.me)!
 
 ## Education
 
