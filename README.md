@@ -3,7 +3,7 @@
 
 # Anway Pimpalkar 🧠 🦾
 
-I build medical devices to address broad challenges in medicine, currently as a graduate student at Harvard and MIT. Check my portfolio [anway.me](https://anway.me)!
+I build medical devices to address broad challenges in medicine, currently as a graduate student at Harvard. Check my portfolio [anway.me](https://anway.me)!
 
 ## Education
 
