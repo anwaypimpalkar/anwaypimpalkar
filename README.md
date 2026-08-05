@@ -3,7 +3,7 @@
 <a href="https://anway.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-anway.me-FF5722?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 
 
-# Anway Pimpalkar 🧠 🦾
+# Anway Pimpalkar
 
 I build medical devices to address broad challenges in medicine, currently as a graduate student at Harvard.
 
