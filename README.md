@@ -1,5 +1,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anwaypimpalkar.anwaypimpalkar) 
 <a href="https://www.linkedin.com/in/anwaypimpalkar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://anway.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-anway.me-FF5722?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+
 
 # Anway Pimpalkar 🧠 🦾
 
