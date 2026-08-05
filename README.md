@@ -5,7 +5,7 @@
 
 # Anway Pimpalkar 🧠 🦾
 
-I build medical devices to address broad challenges in medicine, currently as a graduate student at Harvard. Check my portfolio [anway.me](https://anway.me)!
+I build medical devices to address broad challenges in medicine, currently as a graduate student at Harvard.
 
 ## Education
 
@@ -13,5 +13,4 @@ I build medical devices to address broad challenges in medicine, currently as a 
 - __MSE, Biomedical Engineering__ - Johns Hopkins University, USA *(2023 - 2025)*
 - __BTech, Electronics and Telecommunication Engineering__ - College of Engineering Pune, India *(2019 - 2023)*
 
-> [!TIP]
-> 🌐 **Portfolio:** [anway.me](https://anway.me)
+> **Portfolio:** [anway.me](https://anway.me)
